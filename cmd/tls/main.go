@@ -9,7 +9,7 @@ import (
 	"path"
 )
 
-const help = `iss: A Gemini server
+const help = `iss: A Gemini server, TLS version
 Usage:
 iss [options]
 Available options:
