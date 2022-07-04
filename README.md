@@ -1,6 +1,7 @@
 # ISS
 
-A Gemini server
+A Gemini server. The development has moved to derelict.garden, currently
+only available on Gemini now, but HTTP is comming soon.
 
 
 ## Options
